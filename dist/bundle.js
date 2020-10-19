@@ -1,0 +1,2 @@
+(()=>{"use strict";console.log("Testing from index.ts Suren..")})();
+//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIndlYnBhY2s6Ly9qdXN0dHMvLi9zcmMvbWFpbi50cyJdLCJuYW1lcyI6WyJjb25zb2xlIiwibG9nIl0sIm1hcHBpbmdzIjoibUJBRUFBLFFBQVFDLElBQUksa0MiLCJmaWxlIjoiYnVuZGxlLmpzIiwic291cmNlc0NvbnRlbnQiOlsiaW1wb3J0ICogYXMgXyBmcm9tICdsb2Rhc2gnO1xuXG5jb25zb2xlLmxvZygnVGVzdGluZyBmcm9tIGluZGV4LnRzIFN1cmVuLi4nKTsiXSwic291cmNlUm9vdCI6IiJ9
