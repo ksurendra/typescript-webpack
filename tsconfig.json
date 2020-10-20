@@ -5,6 +5,10 @@
       "noImplicitAny": true,
       "module": "es6",
       "target": "es5",
+      "lib": [
+        "es2018",
+        "dom"
+      ],
       "moduleResolution": "node" //required if using html-webpack-plugin with typescript
     }
   }

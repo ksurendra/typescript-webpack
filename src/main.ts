@@ -1,14 +1,12 @@
 import * as _ from 'lodash';
+import { App } from "./utils/processLogin";
 
-var FormData = require('form-data');
-const axios = require('axios');
+var a = new App.UserLogin();
 
-console.log('Testing from index.ts Suren..');
+//var FormData = require('form-data');
+//const axios = require('axios');
 
-type PersonScore = {
-    name: string;
-    password: string;
-};
+//console.log('Testing from index.ts Suren..');
 
 /*
 const theForm = document.getElementById("theForm");
@@ -24,6 +22,7 @@ theForm.addEventListener( "submit", function ( event ) {
 } );
 */
 
+/*
 const theForm = document.getElementById("theForm");
 
 theForm.addEventListener( "submit", function ( event ) {
@@ -62,3 +61,4 @@ theForm.addEventListener( "submit", function ( event ) {
         console.log(error);
       });
 })
+*/
